@@ -1,6 +1,14 @@
-Pushing command
+Current: 589
+
+PUSHING COMMAND:
 git add .
 git commit -m "Marked x"
 git rebase jwasham/main
 git push --set-upstream origin progress
 git push --force
+
+PROGRESS:
+2. Use Flashcards
+
+REMEMBER TIPS:
+https://startupnextdoor.com/retaining-computer-science-knowledge/
